@@ -1,17 +1,18 @@
-import * as ReactBootStrap from 'react-bootstrap';
+//import * as ReactBootStrap from 'react-bootstrap';
 import './App.css';
 import Footer from './components/footer';
+import Main from './components/main';
+//import WordList from './components/wordList';
 
 function App() {
   return (
-    <div className="page-container">
-      <div className="content-wrap">
-       
-      
-      </div>
+  <div>
+     
+      <Main/>
       <Footer/>
+      
     </div>
-  );
+  )
 }
 
 
