@@ -9,8 +9,9 @@ const Main = () => {
     return ( 
         <>
 <h2>Список слов</h2>
-<WordList data = {data}/>
-<CardList data = {data}/>
+<CardList  data = {data}/>
+<WordList  data = {data}/>
+
 </>   
 );
 }
