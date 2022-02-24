@@ -97,5 +97,3 @@ export default [
     tags_json: "[]"
     }
     ]
-
-  

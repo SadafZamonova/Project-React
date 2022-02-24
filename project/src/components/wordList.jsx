@@ -15,7 +15,7 @@ return (
         </thead>
         <tbody >
         {data.map((item) => (<Word key = {item.id} {...item} />
-        ))};
+        ))}
         </tbody>
     </table>
 )
