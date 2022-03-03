@@ -81,14 +81,6 @@ export default [
     tags_json: "[]"
     },
     {
-    id: "11255",
-    english: "быв",
-    transcription: "вы",
-    russian: "ав",
-    tags: "",
-    tags_json: "[]"
-    },
-    {
     id: "11256",
     english: "caution",
     transcription: "[kɔːʃn]",

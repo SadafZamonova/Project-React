@@ -1,0 +1,12 @@
+.card {
+    background-color: rgb(48, 150, 116);
+    height: 200px;
+    width: 20%;
+    text-align: center;
+    padding: 3%;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 42%;
+    font-size: 30px;
+
+}
